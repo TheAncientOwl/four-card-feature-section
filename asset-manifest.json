@@ -1,20 +1,24 @@
 {
   "files": {
-    "main.css": "/four-card-feature-section/static/css/main.8be9312a.chunk.css",
-    "main.js": "/four-card-feature-section/static/js/main.054ce98e.chunk.js",
-    "main.js.map": "/four-card-feature-section/static/js/main.054ce98e.chunk.js.map",
+    "main.css": "/four-card-feature-section/static/css/main.c0f79727.chunk.css",
+    "main.js": "/four-card-feature-section/static/js/main.2bca12c2.chunk.js",
+    "main.js.map": "/four-card-feature-section/static/js/main.2bca12c2.chunk.js.map",
     "runtime-main.js": "/four-card-feature-section/static/js/runtime-main.a27db772.js",
     "runtime-main.js.map": "/four-card-feature-section/static/js/runtime-main.a27db772.js.map",
-    "static/js/2.575d613b.chunk.js": "/four-card-feature-section/static/js/2.575d613b.chunk.js",
-    "static/js/2.575d613b.chunk.js.map": "/four-card-feature-section/static/js/2.575d613b.chunk.js.map",
+    "static/js/2.0863ae3b.chunk.js": "/four-card-feature-section/static/js/2.0863ae3b.chunk.js",
+    "static/js/2.0863ae3b.chunk.js.map": "/four-card-feature-section/static/js/2.0863ae3b.chunk.js.map",
     "index.html": "/four-card-feature-section/index.html",
-    "static/css/main.8be9312a.chunk.css.map": "/four-card-feature-section/static/css/main.8be9312a.chunk.css.map",
-    "static/js/2.575d613b.chunk.js.LICENSE.txt": "/four-card-feature-section/static/js/2.575d613b.chunk.js.LICENSE.txt"
+    "static/css/main.c0f79727.chunk.css.map": "/four-card-feature-section/static/css/main.c0f79727.chunk.css.map",
+    "static/js/2.0863ae3b.chunk.js.LICENSE.txt": "/four-card-feature-section/static/js/2.0863ae3b.chunk.js.LICENSE.txt",
+    "static/media/icon-calculator.21bc9adc.svg": "/four-card-feature-section/static/media/icon-calculator.21bc9adc.svg",
+    "static/media/icon-karma.24e0debe.svg": "/four-card-feature-section/static/media/icon-karma.24e0debe.svg",
+    "static/media/icon-supervisor.2dd10a2d.svg": "/four-card-feature-section/static/media/icon-supervisor.2dd10a2d.svg",
+    "static/media/icon-team-builder.b885fb58.svg": "/four-card-feature-section/static/media/icon-team-builder.b885fb58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a27db772.js",
-    "static/js/2.575d613b.chunk.js",
-    "static/css/main.8be9312a.chunk.css",
-    "static/js/main.054ce98e.chunk.js"
+    "static/js/2.0863ae3b.chunk.js",
+    "static/css/main.c0f79727.chunk.css",
+    "static/js/main.2bca12c2.chunk.js"
   ]
 }

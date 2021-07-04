@@ -1,2 +1,0 @@
-(this["webpackJsonpfour-card-feature-section"]=this["webpackJsonpfour-card-feature-section"]||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);var r=n(1),c=n.n(r),o=n(3),i=n.n(o),s=n(0);function u(){return Object(s.jsx)("div",{style:{textAlign:"center",marginTop:"20x",fontSize:"25px"},children:"~ Hello world! ~"})}n(9);i.a.render(Object(s.jsx)(c.a.StrictMode,{children:Object(s.jsx)(u,{})}),document.getElementById("root"))},9:function(e,t,n){}},[[10,1,2]]]);
-//# sourceMappingURL=main.054ce98e.chunk.js.map
