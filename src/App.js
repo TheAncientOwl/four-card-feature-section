@@ -8,6 +8,10 @@ import Breakpoints from './Breakpoints';
 
 const Container = styled.div`
   min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 
   @media (max-width: ${Breakpoints.mobile}) {
     padding-top: 1em;
